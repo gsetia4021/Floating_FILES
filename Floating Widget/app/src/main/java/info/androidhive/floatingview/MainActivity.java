@@ -28,14 +28,15 @@ public class MainActivity extends AppCompatActivity {
                     Uri.parse("package:" + getPackageName()));
             startActivityForResult(intent, CODE_DRAW_OVER_OTHER_APP_PERMISSION);
         } else {
-            initializeView();
+            initializeViewChange();
         }
     }
 
     /**
      * Set and initialize the view elements.
      */
-    private void initializeView() {
+    // Change to test pull request git
+    private void initializeViewChange() {
         findViewById(R.id.notify_me).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
