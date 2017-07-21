@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15a6a007-c088-45f5-bcbb-10fbb62e4f43" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/test/java/info/androidhive/floatingview/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/app/src/test/java/info/androidhive/floatingview/ExampleUnitTest.java" />
     </list>
     <ignored path="Foating Widget.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/test/java/info/androidhive/floatingview/ExampleUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -2306,7 +2305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500624745855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testing">
+      <created>1500626303894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500626303894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2381,7 +2387,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Testing VCS Git Mapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing VCS Git Mapping" />
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2525,7 +2532,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/test/java/info/androidhive/floatingview/ExampleUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>
